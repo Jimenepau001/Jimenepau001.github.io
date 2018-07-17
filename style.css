@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#navlist {
+    position: relative;
+}
+
+#navlist li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 0;
+}
+
+#navlist li, #navlist a {
+    height: 44px;
+    display: block;
+}
+
+#home {
+    left: 0px;
+    width: 46px;
+    background: url(images-4.jpg) 0 0;
+}
+
+
+</style>
+</head>
+<body>
+
+<ul id="navlist">
+  <li id="home"><a href="images-4.jpg"></a></li>
+
+
+</body>
+</html>
+
+
+<style>
+    h1 {
+      color: Pink;
+}
+    p {
+      color: Pink;
+}
+
+</style>
+
+<html>
+<head>
+<style>
+#navlist {
+   position: relative;
+}
+
+#navlist li {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+   position: absolute;
+   top: 0;
+}
+
+#navlist li, #navlist a {
+   height: 44px;
+   display: block;
+}
+
+#home {
+   left: 0px;
+   width: 46px;
+   background: url('img_navsprites.gif') 0 0;
+}
